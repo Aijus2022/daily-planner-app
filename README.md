@@ -39,7 +39,7 @@ The app displays the current day at the top of the calendar. Time blocks for sta
 
 1. Clone the repository:
 
-git clone https://https://github.com/Aijus2022/daily-planner-app.git
+git clone https://github.com/Aijus2022/daily-planner-app.git
 Open the project folder:
 
 cd daily-planner-app
