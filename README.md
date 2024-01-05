@@ -10,6 +10,7 @@ The Daily Planner App is a simple calendar application that allows users to mana
 ## Table of Contents
 
 - [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
