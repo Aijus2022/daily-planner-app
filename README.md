@@ -22,6 +22,13 @@ The Daily Planner App is a simple calendar application that allows users to mana
 
 Check out the [Live Demo](https://aijus2022.github.io/daily-planner-app/) of the Daily Planner App.
 
+## Screenshots
+
+![Screenshot 1](images/Screenshot%202024-01-05%20194738.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](images/Screenshot%202024-01-05%20194919.png)
+*Caption for Screenshot 2*
 
 ## Technologies Used
 
